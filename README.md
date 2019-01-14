@@ -12,12 +12,6 @@
 - Join Community
 - Get Feeds
 
-## Teams
-
-- Development: Wycliff Kibocha
-- Writing tests: Ernest (Squad Digital)
-- Code review: Squad Digital's dev team plus UAP's review team
-
 ## Development
 
 - Development Environment: React Native's Expo [Hybrid]
